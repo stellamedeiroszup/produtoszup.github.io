@@ -1,19 +1,32 @@
-- name: Docs
+- name: APM
   link: /docs/
-- name: Example Pages
-  link: /#
   dropdown:
-    - name: Landing Page With Callouts
-      link: /landing/
-    - name: Sponsors Page
-      link: /sponsors/
-    - name: Image Gallery
+    - name: APIs
+      link: /docs/getting-started/
+    - name: Ambiente
+      link: /ambientes/
+    - name: Aplicações
       link: /gallery/
-    - name: Products
+    - name: Dashboard
       link: /products/
-    - name: Recipe Page
+    - name: Logs
       link: /example-recipe/
-    - name: Showcase
+    - name: Configurações
       link: /showcase/
-- name: Blog
-  link: /blog/
+    - name: Relatórios
+      link: /colocar link aqui/
+    - name: Portal do Desenvolvedor
+      link: /colocar link aqui/
+- name: USM 
+  link: /docs_2/
+  dropdown:
+    - name: Organização
+      link: /landing/
+    - name: Autenticação
+      link: /sponsors/
+    - name: Administrador
+      link: /gallery/
+    - name: Aplicações
+      link: /products/
+- name: OKR
+  link: /okr/
