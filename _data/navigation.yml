@@ -1,24 +1,24 @@
 - name: APM
-  link: /docs/
+  link: 
   dropdown:
     - name: APIs
-      link: /docs/getting-started/
+      link: /docs/
     - name: Ambiente
       link: /ambientes/
     - name: Aplicações
-      link: /gallery/
+      link: /aplicacoes/
     - name: Dashboard
-      link: /products/
+      link: /dashboard/
     - name: Logs
-      link: /example-recipe/
+      link: /logs/
     - name: Configurações
-      link: /showcase/
+      link: /configuracoes/
     - name: Relatórios
       link: /colocar link aqui/
     - name: Portal do Desenvolvedor
       link: /colocar link aqui/
 - name: USM 
-  link: /docs_2/
+  link: 
   dropdown:
     - name: Organização
       link: /landing/
