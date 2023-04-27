@@ -16,7 +16,7 @@
     - name: Relatórios
       link: /relatorios/
     - name: Portal do Desenvolvedor
-      link: /colocar link aqui/
+      link: /portal_do_dev/
 - name: USM 
   link: 
   dropdown:

@@ -1,15 +1,15 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
+title: API MANAGER
+tagline: API MANAGER ZUP
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "produtoszup.github.io"
+  Documentação produtos ZUP: Real Wave e API Manager
+baseurl: "/produtoszup.github.io"
 url: ""
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+#gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
@@ -19,11 +19,11 @@ paginate: 5
 paginate_path: "/blog/page:num"
 
 # Disqus Comments
-disqus:
+# disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
+  #shortname: csrhymes
 
 
 plugins:
