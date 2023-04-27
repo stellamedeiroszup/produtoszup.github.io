@@ -1,0 +1,8 @@
+- label: Navegação rápida
+  items:
+    - name: Gestão de Entrypoints
+      link: /docs_ambientes/getting-started/gestao-entrypoints/
+    - name: Gestão de Ambientes para Endpoints
+      link: /docs_ambientes/getting-started/gestao-de-ambientes-endpoints/
+    - name: Grupos de Endpoints
+      link: /docs_ambientes/getting-started/grupos-endpoints/

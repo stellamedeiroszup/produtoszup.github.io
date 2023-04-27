@@ -1,0 +1,44 @@
+- label: Navegação rápida
+  items:
+    - name: 1.Listagem e Busca
+      link: /docs/getting-started/listagem/
+    - name: 2.Criar Aplicação
+      link: /docs/getting-started/adicionar-api/
+    - name: 3.Editar Aplicação
+      link: /docs/getting-started/editar-api/
+    - name: 4.Excluir Aplicação
+      link: /docs/getting-started/excluir-api/
+    - name: 5.Visualizar Aplicação
+      link: /docs/getting-started/visualizar-api/
+    - name: 6.Gerenciar Permissões
+      link: /docs/getting-started/gerenciar-recursos/
+    - name: 7.Gerenciando Pacotes
+      link: /docs/getting-started/deploy/
+    - name: 8.Gerenciando Entrypoints
+      link: /docs/getting-started/ger-doc-api/
+    - name: 9.Realizar Deploy
+      link: /docs/getting-started/documentar-req/
+    - name: 10.Gerenciar Credenciais
+      link: /docs/getting-started/import-export-req/
+    - name: 11.Gerenciar autenticação
+      link: /docs/getting-started/rest-client/
+    - name: 12.Associar Serviços
+      link: /docs/getting-started/testar-req/
+    - name: 13.Gerenciar Atributos
+      link: /docs/getting-started/transformadores/
+    - name: 14.Gerenciar Criptografia
+      link: /docs/getting-started/classificar-tags/
+    - name: 15.Gerenciar Política de Segurança
+      link: /docs/getting-started/respostas-alternativas/
+    - name: 16.Gerenciar Proteções Contra Ameaças
+      link: /docs/getting-started/tipos-de-dados/
+    - name: 17.Gerenciar Cotas
+      link: /docs/getting-started/tipos-de-dados/
+    - name: 18.Gerenciar Caches
+      link: /docs/getting-started/tipos-de-dados/
+    - name: 19.Gerenciar CORS
+      link: /docs/getting-started/tipos-de-dados/
+    - name: 20.Gerenciar Tamanho do Payload
+      link: /docs/getting-started/tipos-de-dados/
+    - name: 21.Gerenciar Políticas de Logs
+      link: /docs/getting-started/tipos-de-dados/

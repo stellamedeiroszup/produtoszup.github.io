@@ -1,0 +1,6 @@
+- label: Navegação rápida
+  items:
+    - name: 1.Dashboard
+      link: /docs_dashboard/getting-started/dashboard/
+    
+     

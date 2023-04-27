@@ -1,0 +1,21 @@
+- label: Navegação rápida
+  items:
+    - name: 1.Configurações
+      link: /docs_config/getting-started/configuracoes/
+    - name: 2.API Pública
+      link: /docs_config/getting-started/api_publica/
+    - name: 3.Gerenciar Business Tags
+      link: /docs_config/getting-started/gerenciar_business_tags/
+    - name: 4.Gerenciar Escopos de Autenticação
+      link: /docs_config/getting-started/gerenciar_escopos_auth/
+    - name: 5.Gerenciar Transformadores Globais
+      link: /docs_config/getting-started/gerenciar_transf_globais/
+    - name: 6.Gerenciar Extratores Globais
+      link: /docs_config/getting-started/gerenciar_extr_globais/
+    - name: 7.Gerenciar Ofuscadores Globais
+      link: /docs_config/getting-started/gerenciar_ofusc_globais/
+    - name: 8.Gerenciar Modificadores Globais
+      link: /docs_config/getting-started/gerenciar_mod_globais/
+    - name: 9.Gerenciar Templates de Modificadores 
+      link: /docs_config/getting-started/gerenciar_templ_mod/
+   

@@ -1,0 +1,6 @@
+- label: Navegação rápida
+  items:
+    - name: 1.Logs
+      link: /docs_logs/getting-started/logs/
+    
+     

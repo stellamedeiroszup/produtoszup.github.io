@@ -1,0 +1,12 @@
+- label: Navegação rápida
+  items:
+    - name: 1.Auditoria
+      link: /docs_ambientes/getting-started/auditoria/
+    - name: 2.Requisições
+      link: /docs_ambientes/getting-started/requisicoes/
+    - name: 3.Erros
+      link: /docs_ambientes/getting-started/erros/
+    - name: 4.Histórico de Deploy
+      link: /docs_ambientes/getting-started/historico_deploy/
+    - name: 5.Relatório de Deploy
+      link: /docs_ambientes/getting-started/relatorios_deploy/
